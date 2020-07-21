@@ -1,0 +1,4965 @@
+﻿[
+  {
+    "idqh": 1,
+    "nameQh": "Qu\u1EADn Ba \u0110\u00ECnh",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 2,
+    "nameQh": "Qu\u1EADn Ho\u00E0n Ki\u1EBFm",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 3,
+    "nameQh": "Qu\u1EADn T\u00E2y H\u1ED3",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 4,
+    "nameQh": "Qu\u1EADn Long Bi\u00EAn",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 5,
+    "nameQh": "Qu\u1EADn C\u1EA7u Gi\u1EA5y",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 6,
+    "nameQh": "Qu\u1EADn \u0110\u1ED1ng \u0110a",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 7,
+    "nameQh": "Qu\u1EADn Hai B\u00E0 Tr\u01B0ng",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 8,
+    "nameQh": "Qu\u1EADn Ho\u00E0ng Mai",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 9,
+    "nameQh": "Qu\u1EADn Thanh Xu\u00E2n",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 16,
+    "nameQh": "Huy\u1EC7n S\u00F3c S\u01A1n",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 17,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4ng Anh",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 18,
+    "nameQh": "Huy\u1EC7n Gia L\u00E2m",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 19,
+    "nameQh": "Qu\u1EADn Nam T\u1EEB Li\u00EAm",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 20,
+    "nameQh": "Huy\u1EC7n Thanh Tr\u00EC",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 21,
+    "nameQh": "Qu\u1EADn B\u1EAFc T\u1EEB Li\u00EAm",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 24,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u00E0 Giang",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 26,
+    "nameQh": "Huy\u1EC7n \u0110\u1ED3ng V\u0103n",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 27,
+    "nameQh": "Huy\u1EC7n M\u00E8o V\u1EA1c",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 28,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Minh",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 29,
+    "nameQh": "Huy\u1EC7n Qu\u1EA3n B\u1EA1",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 30,
+    "nameQh": "Huy\u1EC7n V\u1ECB Xuy\u00EAn",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 31,
+    "nameQh": "Huy\u1EC7n B\u1EAFc M\u00EA",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 32,
+    "nameQh": "Huy\u1EC7n Ho\u00E0ng Su Ph\u00EC",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 33,
+    "nameQh": "Huy\u1EC7n X\u00EDn M\u1EA7n",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 34,
+    "nameQh": "Huy\u1EC7n B\u1EAFc Quang",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 35,
+    "nameQh": "Huy\u1EC7n Quang B\u00ECnh",
+    "idtp": 2,
+
+    "xa": []
+  },
+  {
+    "idqh": 40,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Cao B\u1EB1ng",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 42,
+    "nameQh": "Huy\u1EC7n B\u1EA3o L\u00E2m",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 43,
+    "nameQh": "Huy\u1EC7n B\u1EA3o L\u1EA1c",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 44,
+    "nameQh": "Huy\u1EC7n Th\u00F4ng N\u00F4ng",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 45,
+    "nameQh": "Huy\u1EC7n H\u00E0 Qu\u1EA3ng",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 46,
+    "nameQh": "Huy\u1EC7n Tr\u00E0 L\u0129nh",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 47,
+    "nameQh": "Huy\u1EC7n Tr\u00F9ng Kh\u00E1nh",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 48,
+    "nameQh": "Huy\u1EC7n H\u1EA1 Lang",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 49,
+    "nameQh": "Huy\u1EC7n Qu\u1EA3ng Uy\u00EAn",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 50,
+    "nameQh": "Huy\u1EC7n Ph\u1EE5c Ho\u00E0",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 51,
+    "nameQh": "Huy\u1EC7n Ho\u00E0 An",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 52,
+    "nameQh": "Huy\u1EC7n Nguy\u00EAn B\u00ECnh",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 53,
+    "nameQh": "Huy\u1EC7n Th\u1EA1ch An",
+    "idtp": 4,
+
+    "xa": []
+  },
+  {
+    "idqh": 58,
+    "nameQh": "Th\u00E0nh Ph\u1ED1 B\u1EAFc K\u1EA1n",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 60,
+    "nameQh": "Huy\u1EC7n P\u00E1c N\u1EB7m",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 61,
+    "nameQh": "Huy\u1EC7n Ba B\u1EC3",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 62,
+    "nameQh": "Huy\u1EC7n Ng\u00E2n S\u01A1n",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 63,
+    "nameQh": "Huy\u1EC7n B\u1EA1ch Th\u00F4ng",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 64,
+    "nameQh": "Huy\u1EC7n Ch\u1EE3 \u0110\u1ED3n",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 65,
+    "nameQh": "Huy\u1EC7n Ch\u1EE3 M\u1EDBi",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 66,
+    "nameQh": "Huy\u1EC7n Na R\u00EC",
+    "idtp": 6,
+
+    "xa": []
+  },
+  {
+    "idqh": 70,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Tuy\u00EAn Quang",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 71,
+    "nameQh": "Huy\u1EC7n L\u00E2m B\u00ECnh",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 72,
+    "nameQh": "Huy\u1EC7n Na Hang",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 73,
+    "nameQh": "Huy\u1EC7n Chi\u00EAm H\u00F3a",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 74,
+    "nameQh": "Huy\u1EC7n H\u00E0m Y\u00EAn",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 75,
+    "nameQh": "Huy\u1EC7n Y\u00EAn S\u01A1n",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 76,
+    "nameQh": "Huy\u1EC7n S\u01A1n D\u01B0\u01A1ng",
+    "idtp": 8,
+
+    "xa": []
+  },
+  {
+    "idqh": 80,
+    "nameQh": "Th\u00E0nh ph\u1ED1 L\u00E0o Cai",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 82,
+    "nameQh": "Huy\u1EC7n B\u00E1t X\u00E1t",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 83,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng Kh\u01B0\u01A1ng",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 84,
+    "nameQh": "Huy\u1EC7n Si Ma Cai",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 85,
+    "nameQh": "Huy\u1EC7n B\u1EAFc H\u00E0",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 86,
+    "nameQh": "Huy\u1EC7n B\u1EA3o Th\u1EAFng",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 87,
+    "nameQh": "Huy\u1EC7n B\u1EA3o Y\u00EAn",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 88,
+    "nameQh": "Huy\u1EC7n Sa Pa",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 89,
+    "nameQh": "Huy\u1EC7n V\u0103n B\u00E0n",
+    "idtp": 10,
+
+    "xa": []
+  },
+  {
+    "idqh": 94,
+    "nameQh": "Th\u00E0nh ph\u1ED1 \u0110i\u1EC7n Bi\u00EAn Ph\u1EE7",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 95,
+    "nameQh": "Th\u1ECB X\u00E3 M\u01B0\u1EDDng Lay",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 96,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng Nh\u00E9",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 97,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng Ch\u00E0",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 98,
+    "nameQh": "Huy\u1EC7n T\u1EE7a Ch\u00F9a",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 99,
+    "nameQh": "Huy\u1EC7n Tu\u1EA7n Gi\u00E1o",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 100,
+    "nameQh": "Huy\u1EC7n \u0110i\u1EC7n Bi\u00EAn",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 101,
+    "nameQh": "Huy\u1EC7n \u0110i\u1EC7n Bi\u00EAn \u0110\u00F4ng",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 102,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng \u1EA2ng",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 103,
+    "nameQh": "Huy\u1EC7n N\u1EADm P\u1ED3",
+    "idtp": 11,
+
+    "xa": []
+  },
+  {
+    "idqh": 105,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Lai Ch\u00E2u",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 106,
+    "nameQh": "Huy\u1EC7n Tam \u0110\u01B0\u1EDDng",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 107,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng T\u00E8",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 108,
+    "nameQh": "Huy\u1EC7n S\u00ECn H\u1ED3",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 109,
+    "nameQh": "Huy\u1EC7n Phong Th\u1ED5",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 110,
+    "nameQh": "Huy\u1EC7n Than Uy\u00EAn",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 111,
+    "nameQh": "Huy\u1EC7n T\u00E2n Uy\u00EAn",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 112,
+    "nameQh": "Huy\u1EC7n N\u1EADm Nh\u00F9n",
+    "idtp": 12,
+
+    "xa": []
+  },
+  {
+    "idqh": 116,
+    "nameQh": "Th\u00E0nh ph\u1ED1 S\u01A1n La",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 118,
+    "nameQh": "Huy\u1EC7n Qu\u1EF3nh Nhai",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 119,
+    "nameQh": "Huy\u1EC7n Thu\u1EADn Ch\u00E2u",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 120,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng La",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 121,
+    "nameQh": "Huy\u1EC7n B\u1EAFc Y\u00EAn",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 122,
+    "nameQh": "Huy\u1EC7n Ph\u00F9 Y\u00EAn",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 123,
+    "nameQh": "Huy\u1EC7n M\u1ED9c Ch\u00E2u",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 124,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Ch\u00E2u",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 125,
+    "nameQh": "Huy\u1EC7n Mai S\u01A1n",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 126,
+    "nameQh": "Huy\u1EC7n S\u00F4ng M\u00E3",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 127,
+    "nameQh": "Huy\u1EC7n S\u1ED1p C\u1ED9p",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 128,
+    "nameQh": "Huy\u1EC7n V\u00E2n H\u1ED3",
+    "idtp": 14,
+
+    "xa": []
+  },
+  {
+    "idqh": 132,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Y\u00EAn B\u00E1i",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 133,
+    "nameQh": "Th\u1ECB x\u00E3 Ngh\u0129a L\u1ED9",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 135,
+    "nameQh": "Huy\u1EC7n L\u1EE5c Y\u00EAn",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 136,
+    "nameQh": "Huy\u1EC7n V\u0103n Y\u00EAn",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 137,
+    "nameQh": "Huy\u1EC7n M\u00F9 C\u0103ng Ch\u1EA3i",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 138,
+    "nameQh": "Huy\u1EC7n Tr\u1EA5n Y\u00EAn",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 139,
+    "nameQh": "Huy\u1EC7n Tr\u1EA1m T\u1EA5u",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 140,
+    "nameQh": "Huy\u1EC7n V\u0103n Ch\u1EA5n",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 141,
+    "nameQh": "Huy\u1EC7n Y\u00EAn B\u00ECnh",
+    "idtp": 15,
+
+    "xa": []
+  },
+  {
+    "idqh": 148,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u00F2a B\u00ECnh",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 150,
+    "nameQh": "Huy\u1EC7n \u0110\u00E0 B\u1EAFc",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 151,
+    "nameQh": "Huy\u1EC7n K\u1EF3 S\u01A1n",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 152,
+    "nameQh": "Huy\u1EC7n L\u01B0\u01A1ng S\u01A1n",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 153,
+    "nameQh": "Huy\u1EC7n Kim B\u00F4i",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 154,
+    "nameQh": "Huy\u1EC7n Cao Phong",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 155,
+    "nameQh": "Huy\u1EC7n T\u00E2n L\u1EA1c",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 156,
+    "nameQh": "Huy\u1EC7n Mai Ch\u00E2u",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 157,
+    "nameQh": "Huy\u1EC7n L\u1EA1c S\u01A1n",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 158,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Th\u1EE7y",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 159,
+    "nameQh": "Huy\u1EC7n L\u1EA1c Th\u1EE7y",
+    "idtp": 17,
+
+    "xa": []
+  },
+  {
+    "idqh": 164,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Th\u00E1i Nguy\u00EAn",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 165,
+    "nameQh": "Th\u00E0nh ph\u1ED1 S\u00F4ng C\u00F4ng",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 167,
+    "nameQh": "Huy\u1EC7n \u0110\u1ECBnh H\u00F3a",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 168,
+    "nameQh": "Huy\u1EC7n Ph\u00FA L\u01B0\u01A1ng",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 169,
+    "nameQh": "Huy\u1EC7n \u0110\u1ED3ng H\u1EF7",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 170,
+    "nameQh": "Huy\u1EC7n V\u00F5 Nhai",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 171,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA1i T\u1EEB",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 172,
+    "nameQh": "Th\u1ECB x\u00E3 Ph\u1ED5 Y\u00EAn",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 173,
+    "nameQh": "Huy\u1EC7n Ph\u00FA B\u00ECnh",
+    "idtp": 19,
+
+    "xa": []
+  },
+  {
+    "idqh": 178,
+    "nameQh": "Th\u00E0nh ph\u1ED1 L\u1EA1ng S\u01A1n",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 180,
+    "nameQh": "Huy\u1EC7n Tr\u00E0ng \u0110\u1ECBnh",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 181,
+    "nameQh": "Huy\u1EC7n B\u00ECnh Gia",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 182,
+    "nameQh": "Huy\u1EC7n V\u0103n L\u00E3ng",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 183,
+    "nameQh": "Huy\u1EC7n Cao L\u1ED9c",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 184,
+    "nameQh": "Huy\u1EC7n V\u0103n Quan",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 185,
+    "nameQh": "Huy\u1EC7n B\u1EAFc S\u01A1n",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 186,
+    "nameQh": "Huy\u1EC7n H\u1EEFu L\u0169ng",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 187,
+    "nameQh": "Huy\u1EC7n Chi L\u0103ng",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 188,
+    "nameQh": "Huy\u1EC7n L\u1ED9c B\u00ECnh",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 189,
+    "nameQh": "Huy\u1EC7n \u0110\u00ECnh L\u1EADp",
+    "idtp": 20,
+
+    "xa": []
+  },
+  {
+    "idqh": 193,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u1EA1 Long",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 194,
+    "nameQh": "Th\u00E0nh ph\u1ED1 M\u00F3ng C\u00E1i",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 195,
+    "nameQh": "Th\u00E0nh ph\u1ED1 C\u1EA9m Ph\u1EA3",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 196,
+    "nameQh": "Th\u00E0nh ph\u1ED1 U\u00F4ng B\u00ED",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 198,
+    "nameQh": "Huy\u1EC7n B\u00ECnh Li\u00EAu",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 199,
+    "nameQh": "Huy\u1EC7n Ti\u00EAn Y\u00EAn",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 200,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA7m H\u00E0",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 201,
+    "nameQh": "Huy\u1EC7n H\u1EA3i H\u00E0",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 202,
+    "nameQh": "Huy\u1EC7n Ba Ch\u1EBD",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 203,
+    "nameQh": "Huy\u1EC7n V\u00E2n \u0110\u1ED3n",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 204,
+    "nameQh": "Huy\u1EC7n Ho\u00E0nh B\u1ED3",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 205,
+    "nameQh": "Th\u1ECB x\u00E3 \u0110\u00F4ng Tri\u1EC1u",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 206,
+    "nameQh": "Th\u1ECB x\u00E3 Qu\u1EA3ng Y\u00EAn",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 207,
+    "nameQh": "Huy\u1EC7n C\u00F4 T\u00F4",
+    "idtp": 22,
+
+    "xa": []
+  },
+  {
+    "idqh": 213,
+    "nameQh": "Th\u00E0nh ph\u1ED1 B\u1EAFc Giang",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 215,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Th\u1EBF",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 216,
+    "nameQh": "Huy\u1EC7n T\u00E2n Y\u00EAn",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 217,
+    "nameQh": "Huy\u1EC7n L\u1EA1ng Giang",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 218,
+    "nameQh": "Huy\u1EC7n L\u1EE5c Nam",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 219,
+    "nameQh": "Huy\u1EC7n L\u1EE5c Ng\u1EA1n",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 220,
+    "nameQh": "Huy\u1EC7n S\u01A1n \u0110\u1ED9ng",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 221,
+    "nameQh": "Huy\u1EC7n Y\u00EAn D\u0169ng",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 222,
+    "nameQh": "Huy\u1EC7n Vi\u1EC7t Y\u00EAn",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 223,
+    "nameQh": "Huy\u1EC7n Hi\u1EC7p H\u00F2a",
+    "idtp": 24,
+
+    "xa": []
+  },
+  {
+    "idqh": 227,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Vi\u1EC7t Tr\u00EC",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 228,
+    "nameQh": "Th\u1ECB x\u00E3 Ph\u00FA Th\u1ECD",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 230,
+    "nameQh": "Huy\u1EC7n \u0110oan H\u00F9ng",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 231,
+    "nameQh": "Huy\u1EC7n H\u1EA1 Ho\u00E0",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 232,
+    "nameQh": "Huy\u1EC7n Thanh Ba",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 233,
+    "nameQh": "Huy\u1EC7n Ph\u00F9 Ninh",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 234,
+    "nameQh": "Huy\u1EC7n Y\u00EAn L\u1EADp",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 235,
+    "nameQh": "Huy\u1EC7n C\u1EA9m Kh\u00EA",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 236,
+    "nameQh": "Huy\u1EC7n Tam N\u00F4ng",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 237,
+    "nameQh": "Huy\u1EC7n L\u00E2m Thao",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 238,
+    "nameQh": "Huy\u1EC7n Thanh S\u01A1n",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 239,
+    "nameQh": "Huy\u1EC7n Thanh Thu\u1EF7",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 240,
+    "nameQh": "Huy\u1EC7n T\u00E2n S\u01A1n",
+    "idtp": 25,
+
+    "xa": []
+  },
+  {
+    "idqh": 243,
+    "nameQh": "Th\u00E0nh ph\u1ED1 V\u0129nh Y\u00EAn",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 244,
+    "nameQh": "Th\u1ECB x\u00E3 Ph\u00FAc Y\u00EAn",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 246,
+    "nameQh": "Huy\u1EC7n L\u1EADp Th\u1EA1ch",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 247,
+    "nameQh": "Huy\u1EC7n Tam D\u01B0\u01A1ng",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 248,
+    "nameQh": "Huy\u1EC7n Tam \u0110\u1EA3o",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 249,
+    "nameQh": "Huy\u1EC7n B\u00ECnh Xuy\u00EAn",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 250,
+    "nameQh": "Huy\u1EC7n M\u00EA Linh",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 251,
+    "nameQh": "Huy\u1EC7n Y\u00EAn L\u1EA1c",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 252,
+    "nameQh": "Huy\u1EC7n V\u0129nh T\u01B0\u1EDDng",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 253,
+    "nameQh": "Huy\u1EC7n S\u00F4ng L\u00F4",
+    "idtp": 26,
+
+    "xa": []
+  },
+  {
+    "idqh": 256,
+    "nameQh": "Th\u00E0nh ph\u1ED1 B\u1EAFc Ninh",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 258,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Phong",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 259,
+    "nameQh": "Huy\u1EC7n Qu\u1EBF V\u00F5",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 260,
+    "nameQh": "Huy\u1EC7n Ti\u00EAn Du",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 261,
+    "nameQh": "Th\u1ECB x\u00E3 T\u1EEB S\u01A1n",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 262,
+    "nameQh": "Huy\u1EC7n Thu\u1EADn Th\u00E0nh",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 263,
+    "nameQh": "Huy\u1EC7n Gia B\u00ECnh",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 264,
+    "nameQh": "Huy\u1EC7n L\u01B0\u01A1ng T\u00E0i",
+    "idtp": 27,
+
+    "xa": []
+  },
+  {
+    "idqh": 268,
+    "nameQh": "Qu\u1EADn H\u00E0 \u0110\u00F4ng",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 269,
+    "nameQh": "Th\u1ECB x\u00E3 S\u01A1n T\u00E2y",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 271,
+    "nameQh": "Huy\u1EC7n Ba V\u00EC",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 272,
+    "nameQh": "Huy\u1EC7n Ph\u00FAc Th\u1ECD",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 273,
+    "nameQh": "Huy\u1EC7n \u0110an Ph\u01B0\u1EE3ng",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 274,
+    "nameQh": "Huy\u1EC7n Ho\u00E0i \u0110\u1EE9c",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 275,
+    "nameQh": "Huy\u1EC7n Qu\u1ED1c Oai",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 276,
+    "nameQh": "Huy\u1EC7n Th\u1EA1ch Th\u1EA5t",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 277,
+    "nameQh": "Huy\u1EC7n Ch\u01B0\u01A1ng M\u1EF9",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 278,
+    "nameQh": "Huy\u1EC7n Thanh Oai",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 279,
+    "nameQh": "Huy\u1EC7n Th\u01B0\u1EDDng T\u00EDn",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 280,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Xuy\u00EAn",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 281,
+    "nameQh": "Huy\u1EC7n \u1EE8ng H\u00F2a",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 282,
+    "nameQh": "Huy\u1EC7n M\u1EF9 \u0110\u1EE9c",
+    "idtp": 1,
+
+    "xa": []
+  },
+  {
+    "idqh": 288,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u1EA3i D\u01B0\u01A1ng",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 290,
+    "nameQh": "Th\u1ECB x\u00E3 Ch\u00ED Linh",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 291,
+    "nameQh": "Huy\u1EC7n Nam S\u00E1ch",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 292,
+    "nameQh": "Huy\u1EC7n Kinh M\u00F4n",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 293,
+    "nameQh": "Huy\u1EC7n Kim Th\u00E0nh",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 294,
+    "nameQh": "Huy\u1EC7n Thanh H\u00E0",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 295,
+    "nameQh": "Huy\u1EC7n C\u1EA9m Gi\u00E0ng",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 296,
+    "nameQh": "Huy\u1EC7n B\u00ECnh Giang",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 297,
+    "nameQh": "Huy\u1EC7n Gia L\u1ED9c",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 298,
+    "nameQh": "Huy\u1EC7n T\u1EE9 K\u1EF3",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 299,
+    "nameQh": "Huy\u1EC7n Ninh Giang",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 300,
+    "nameQh": "Huy\u1EC7n Thanh Mi\u1EC7n",
+    "idtp": 30,
+
+    "xa": []
+  },
+  {
+    "idqh": 303,
+    "nameQh": "Qu\u1EADn H\u1ED3ng B\u00E0ng",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 304,
+    "nameQh": "Qu\u1EADn Ng\u00F4 Quy\u1EC1n",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 305,
+    "nameQh": "Qu\u1EADn L\u00EA Ch\u00E2n",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 306,
+    "nameQh": "Qu\u1EADn H\u1EA3i An",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 307,
+    "nameQh": "Qu\u1EADn Ki\u1EBFn An",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 308,
+    "nameQh": "Qu\u1EADn \u0110\u1ED3 S\u01A1n",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 309,
+    "nameQh": "Qu\u1EADn D\u01B0\u01A1ng Kinh",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 311,
+    "nameQh": "Huy\u1EC7n Thu\u1EF7 Nguy\u00EAn",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 312,
+    "nameQh": "Huy\u1EC7n An D\u01B0\u01A1ng",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 313,
+    "nameQh": "Huy\u1EC7n An L\u00E3o",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 314,
+    "nameQh": "Huy\u1EC7n Ki\u1EBFn Thu\u1EF5",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 315,
+    "nameQh": "Huy\u1EC7n Ti\u00EAn L\u00E3ng",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 316,
+    "nameQh": "Huy\u1EC7n V\u0129nh B\u1EA3o",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 317,
+    "nameQh": "Huy\u1EC7n C\u00E1t H\u1EA3i",
+    "idtp": 31,
+
+    "xa": []
+  },
+  {
+    "idqh": 323,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u01B0ng Y\u00EAn",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 325,
+    "nameQh": "Huy\u1EC7n V\u0103n L\u00E2m",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 326,
+    "nameQh": "Huy\u1EC7n V\u0103n Giang",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 327,
+    "nameQh": "Huy\u1EC7n Y\u00EAn M\u1EF9",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 328,
+    "nameQh": "Huy\u1EC7n M\u1EF9 H\u00E0o",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 329,
+    "nameQh": "Huy\u1EC7n \u00C2n Thi",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 330,
+    "nameQh": "Huy\u1EC7n Kho\u00E1i Ch\u00E2u",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 331,
+    "nameQh": "Huy\u1EC7n Kim \u0110\u1ED9ng",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 332,
+    "nameQh": "Huy\u1EC7n Ti\u00EAn L\u1EEF",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 333,
+    "nameQh": "Huy\u1EC7n Ph\u00F9 C\u1EEB",
+    "idtp": 33,
+
+    "xa": []
+  },
+  {
+    "idqh": 336,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Th\u00E1i B\u00ECnh",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 338,
+    "nameQh": "Huy\u1EC7n Qu\u1EF3nh Ph\u1EE5",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 339,
+    "nameQh": "Huy\u1EC7n H\u01B0ng H\u00E0",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 340,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4ng H\u01B0ng",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 341,
+    "nameQh": "Huy\u1EC7n Th\u00E1i Th\u1EE5y",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 342,
+    "nameQh": "Huy\u1EC7n Ti\u1EC1n H\u1EA3i",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 343,
+    "nameQh": "Huy\u1EC7n Ki\u1EBFn X\u01B0\u01A1ng",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 344,
+    "nameQh": "Huy\u1EC7n V\u0169 Th\u01B0",
+    "idtp": 34,
+
+    "xa": []
+  },
+  {
+    "idqh": 347,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Ph\u1EE7 L\u00FD",
+    "idtp": 35,
+
+    "xa": []
+  },
+  {
+    "idqh": 349,
+    "nameQh": "Huy\u1EC7n Duy Ti\u00EAn",
+    "idtp": 35,
+
+    "xa": []
+  },
+  {
+    "idqh": 350,
+    "nameQh": "Huy\u1EC7n Kim B\u1EA3ng",
+    "idtp": 35,
+
+    "xa": []
+  },
+  {
+    "idqh": 351,
+    "nameQh": "Huy\u1EC7n Thanh Li\u00EAm",
+    "idtp": 35,
+
+    "xa": []
+  },
+  {
+    "idqh": 352,
+    "nameQh": "Huy\u1EC7n B\u00ECnh L\u1EE5c",
+    "idtp": 35,
+
+    "xa": []
+  },
+  {
+    "idqh": 353,
+    "nameQh": "Huy\u1EC7n L\u00FD Nh\u00E2n",
+    "idtp": 35,
+
+    "xa": []
+  },
+  {
+    "idqh": 356,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Nam \u0110\u1ECBnh",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 358,
+    "nameQh": "Huy\u1EC7n M\u1EF9 L\u1ED9c",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 359,
+    "nameQh": "Huy\u1EC7n V\u1EE5 B\u1EA3n",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 360,
+    "nameQh": "Huy\u1EC7n \u00DD Y\u00EAn",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 361,
+    "nameQh": "Huy\u1EC7n Ngh\u0129a H\u01B0ng",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 362,
+    "nameQh": "Huy\u1EC7n Nam Tr\u1EF1c",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 363,
+    "nameQh": "Huy\u1EC7n Tr\u1EF1c Ninh",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 364,
+    "nameQh": "Huy\u1EC7n Xu\u00E2n Tr\u01B0\u1EDDng",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 365,
+    "nameQh": "Huy\u1EC7n Giao Th\u1EE7y",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 366,
+    "nameQh": "Huy\u1EC7n H\u1EA3i H\u1EADu",
+    "idtp": 36,
+
+    "xa": []
+  },
+  {
+    "idqh": 369,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Ninh B\u00ECnh",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 370,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Tam \u0110i\u1EC7p",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 372,
+    "nameQh": "Huy\u1EC7n Nho Quan",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 373,
+    "nameQh": "Huy\u1EC7n Gia Vi\u1EC5n",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 374,
+    "nameQh": "Huy\u1EC7n Hoa L\u01B0",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 375,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Kh\u00E1nh",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 376,
+    "nameQh": "Huy\u1EC7n Kim S\u01A1n",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 377,
+    "nameQh": "Huy\u1EC7n Y\u00EAn M\u00F4",
+    "idtp": 37,
+
+    "xa": []
+  },
+  {
+    "idqh": 380,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Thanh H\u00F3a",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 381,
+    "nameQh": "Th\u1ECB x\u00E3 B\u1EC9m S\u01A1n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 382,
+    "nameQh": "Th\u00E0nh ph\u1ED1 S\u1EA7m S\u01A1n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 384,
+    "nameQh": "Huy\u1EC7n M\u01B0\u1EDDng L\u00E1t",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 385,
+    "nameQh": "Huy\u1EC7n Quan H\u00F3a",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 386,
+    "nameQh": "Huy\u1EC7n B\u00E1 Th\u01B0\u1EDBc",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 387,
+    "nameQh": "Huy\u1EC7n Quan S\u01A1n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 388,
+    "nameQh": "Huy\u1EC7n Lang Ch\u00E1nh",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 389,
+    "nameQh": "Huy\u1EC7n Ng\u1ECDc L\u1EB7c",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 390,
+    "nameQh": "Huy\u1EC7n C\u1EA9m Th\u1EE7y",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 391,
+    "nameQh": "Huy\u1EC7n Th\u1EA1ch Th\u00E0nh",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 392,
+    "nameQh": "Huy\u1EC7n H\u00E0 Trung",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 393,
+    "nameQh": "Huy\u1EC7n V\u0129nh L\u1ED9c",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 394,
+    "nameQh": "Huy\u1EC7n Y\u00EAn \u0110\u1ECBnh",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 395,
+    "nameQh": "Huy\u1EC7n Th\u1ECD Xu\u00E2n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 396,
+    "nameQh": "Huy\u1EC7n Th\u01B0\u1EDDng Xu\u00E2n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 397,
+    "nameQh": "Huy\u1EC7n Tri\u1EC7u S\u01A1n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 398,
+    "nameQh": "Huy\u1EC7n Thi\u1EC7u H\u00F3a",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 399,
+    "nameQh": "Huy\u1EC7n Ho\u1EB1ng H\u00F3a",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 400,
+    "nameQh": "Huy\u1EC7n H\u1EADu L\u1ED9c",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 401,
+    "nameQh": "Huy\u1EC7n Nga S\u01A1n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 402,
+    "nameQh": "Huy\u1EC7n Nh\u01B0 Xu\u00E2n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 403,
+    "nameQh": "Huy\u1EC7n Nh\u01B0 Thanh",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 404,
+    "nameQh": "Huy\u1EC7n N\u00F4ng C\u1ED1ng",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 405,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4ng S\u01A1n",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 406,
+    "nameQh": "Huy\u1EC7n Qu\u1EA3ng X\u01B0\u01A1ng",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 407,
+    "nameQh": "Huy\u1EC7n T\u0129nh Gia",
+    "idtp": 38,
+
+    "xa": []
+  },
+  {
+    "idqh": 412,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Vinh",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 413,
+    "nameQh": "Th\u1ECB x\u00E3 C\u1EEDa L\u00F2",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 414,
+    "nameQh": "Th\u1ECB x\u00E3 Th\u00E1i Ho\u00E0",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 415,
+    "nameQh": "Huy\u1EC7n Qu\u1EBF Phong",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 416,
+    "nameQh": "Huy\u1EC7n Qu\u1EF3 Ch\u00E2u",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 417,
+    "nameQh": "Huy\u1EC7n K\u1EF3 S\u01A1n",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 418,
+    "nameQh": "Huy\u1EC7n T\u01B0\u01A1ng D\u01B0\u01A1ng",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 419,
+    "nameQh": "Huy\u1EC7n Ngh\u0129a \u0110\u00E0n",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 420,
+    "nameQh": "Huy\u1EC7n Qu\u1EF3 H\u1EE3p",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 421,
+    "nameQh": "Huy\u1EC7n Qu\u1EF3nh L\u01B0u",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 422,
+    "nameQh": "Huy\u1EC7n Con Cu\u00F4ng",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 423,
+    "nameQh": "Huy\u1EC7n T\u00E2n K\u1EF3",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 424,
+    "nameQh": "Huy\u1EC7n Anh S\u01A1n",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 425,
+    "nameQh": "Huy\u1EC7n Di\u1EC5n Ch\u00E2u",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 426,
+    "nameQh": "Huy\u1EC7n Y\u00EAn Th\u00E0nh",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 427,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4 L\u01B0\u01A1ng",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 428,
+    "nameQh": "Huy\u1EC7n Thanh Ch\u01B0\u01A1ng",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 429,
+    "nameQh": "Huy\u1EC7n Nghi L\u1ED9c",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 430,
+    "nameQh": "Huy\u1EC7n Nam \u0110\u00E0n",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 431,
+    "nameQh": "Huy\u1EC7n H\u01B0ng Nguy\u00EAn",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 432,
+    "nameQh": "Th\u1ECB x\u00E3 Ho\u00E0ng Mai",
+    "idtp": 40,
+
+    "xa": []
+  },
+  {
+    "idqh": 436,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u00E0 T\u0129nh",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 437,
+    "nameQh": "Th\u1ECB x\u00E3 H\u1ED3ng L\u0129nh",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 439,
+    "nameQh": "Huy\u1EC7n H\u01B0\u01A1ng S\u01A1n",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 440,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c Th\u1ECD",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 441,
+    "nameQh": "Huy\u1EC7n V\u0169 Quang",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 442,
+    "nameQh": "Huy\u1EC7n Nghi Xu\u00E2n",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 443,
+    "nameQh": "Huy\u1EC7n Can L\u1ED9c",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 444,
+    "nameQh": "Huy\u1EC7n H\u01B0\u01A1ng Kh\u00EA",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 445,
+    "nameQh": "Huy\u1EC7n Th\u1EA1ch H\u00E0",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 446,
+    "nameQh": "Huy\u1EC7n C\u1EA9m Xuy\u00EAn",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 447,
+    "nameQh": "Huy\u1EC7n K\u1EF3 Anh",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 448,
+    "nameQh": "Huy\u1EC7n L\u1ED9c H\u00E0",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 449,
+    "nameQh": "Th\u1ECB x\u00E3 K\u1EF3 Anh",
+    "idtp": 42,
+
+    "xa": []
+  },
+  {
+    "idqh": 450,
+    "nameQh": "Th\u00E0nh Ph\u1ED1 \u0110\u1ED3ng H\u1EDBi",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 452,
+    "nameQh": "Huy\u1EC7n Minh H\u00F3a",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 453,
+    "nameQh": "Huy\u1EC7n Tuy\u00EAn H\u00F3a",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 454,
+    "nameQh": "Huy\u1EC7n Qu\u1EA3ng Tr\u1EA1ch",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 455,
+    "nameQh": "Huy\u1EC7n B\u1ED1 Tr\u1EA1ch",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 456,
+    "nameQh": "Huy\u1EC7n Qu\u1EA3ng Ninh",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 457,
+    "nameQh": "Huy\u1EC7n L\u1EC7 Th\u1EE7y",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 458,
+    "nameQh": "Th\u1ECB x\u00E3 Ba \u0110\u1ED3n",
+    "idtp": 44,
+
+    "xa": []
+  },
+  {
+    "idqh": 461,
+    "nameQh": "Th\u00E0nh ph\u1ED1 \u0110\u00F4ng H\u00E0",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 462,
+    "nameQh": "Th\u1ECB x\u00E3 Qu\u1EA3ng Tr\u1ECB",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 464,
+    "nameQh": "Huy\u1EC7n V\u0129nh Linh",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 465,
+    "nameQh": "Huy\u1EC7n H\u01B0\u1EDBng H\u00F3a",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 466,
+    "nameQh": "Huy\u1EC7n Gio Linh",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 467,
+    "nameQh": "Huy\u1EC7n \u0110a Kr\u00F4ng",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 468,
+    "nameQh": "Huy\u1EC7n Cam L\u1ED9",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 469,
+    "nameQh": "Huy\u1EC7n Tri\u1EC7u Phong",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 470,
+    "nameQh": "Huy\u1EC7n H\u1EA3i L\u0103ng",
+    "idtp": 45,
+
+    "xa": []
+  },
+  {
+    "idqh": 474,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Hu\u1EBF",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 476,
+    "nameQh": "Huy\u1EC7n Phong \u0110i\u1EC1n",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 477,
+    "nameQh": "Huy\u1EC7n Qu\u1EA3ng \u0110i\u1EC1n",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 478,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Vang",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 479,
+    "nameQh": "Th\u1ECB x\u00E3 H\u01B0\u01A1ng Th\u1EE7y",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 480,
+    "nameQh": "Th\u1ECB x\u00E3 H\u01B0\u01A1ng Tr\u00E0",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 481,
+    "nameQh": "Huy\u1EC7n A L\u01B0\u1EDBi",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 482,
+    "nameQh": "Huy\u1EC7n Ph\u00FA L\u1ED9c",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 483,
+    "nameQh": "Huy\u1EC7n Nam \u0110\u00F4ng",
+    "idtp": 46,
+
+    "xa": []
+  },
+  {
+    "idqh": 490,
+    "nameQh": "Qu\u1EADn Li\u00EAn Chi\u1EC3u",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 491,
+    "nameQh": "Qu\u1EADn Thanh Kh\u00EA",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 492,
+    "nameQh": "Qu\u1EADn H\u1EA3i Ch\u00E2u",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 493,
+    "nameQh": "Qu\u1EADn S\u01A1n Tr\u00E0",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 494,
+    "nameQh": "Qu\u1EADn Ng\u0169 H\u00E0nh S\u01A1n",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 495,
+    "nameQh": "Qu\u1EADn C\u1EA9m L\u1EC7",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 497,
+    "nameQh": "Huy\u1EC7n H\u00F2a Vang",
+    "idtp": 48,
+
+    "xa": []
+  },
+  {
+    "idqh": 502,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Tam K\u1EF3",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 503,
+    "nameQh": "Th\u00E0nh ph\u1ED1 H\u1ED9i An",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 504,
+    "nameQh": "Huy\u1EC7n T\u00E2y Giang",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 505,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4ng Giang",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 506,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA1i L\u1ED9c",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 507,
+    "nameQh": "Th\u1ECB x\u00E3 \u0110i\u1EC7n B\u00E0n",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 508,
+    "nameQh": "Huy\u1EC7n Duy Xuy\u00EAn",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 509,
+    "nameQh": "Huy\u1EC7n Qu\u1EBF S\u01A1n",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 510,
+    "nameQh": "Huy\u1EC7n Nam Giang",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 511,
+    "nameQh": "Huy\u1EC7n Ph\u01B0\u1EDBc S\u01A1n",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 512,
+    "nameQh": "Huy\u1EC7n Hi\u1EC7p \u0110\u1EE9c",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 513,
+    "nameQh": "Huy\u1EC7n Th\u0103ng B\u00ECnh",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 514,
+    "nameQh": "Huy\u1EC7n Ti\u00EAn Ph\u01B0\u1EDBc",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 515,
+    "nameQh": "Huy\u1EC7n B\u1EAFc Tr\u00E0 My",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 516,
+    "nameQh": "Huy\u1EC7n Nam Tr\u00E0 My",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 517,
+    "nameQh": "Huy\u1EC7n N\u00FAi Th\u00E0nh",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 518,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Ninh",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 519,
+    "nameQh": "Huy\u1EC7n N\u00F4ng S\u01A1n",
+    "idtp": 49,
+
+    "xa": []
+  },
+  {
+    "idqh": 522,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Qu\u1EA3ng Ng\u00E3i",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 524,
+    "nameQh": "Huy\u1EC7n B\u00ECnh S\u01A1n",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 525,
+    "nameQh": "Huy\u1EC7n Tr\u00E0 B\u1ED3ng",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 526,
+    "nameQh": "Huy\u1EC7n T\u00E2y Tr\u00E0",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 527,
+    "nameQh": "Huy\u1EC7n S\u01A1n T\u1ECBnh",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 528,
+    "nameQh": "Huy\u1EC7n T\u01B0 Ngh\u0129a",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 529,
+    "nameQh": "Huy\u1EC7n S\u01A1n H\u00E0",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 530,
+    "nameQh": "Huy\u1EC7n S\u01A1n T\u00E2y",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 531,
+    "nameQh": "Huy\u1EC7n Minh Long",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 532,
+    "nameQh": "Huy\u1EC7n Ngh\u0129a H\u00E0nh",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 533,
+    "nameQh": "Huy\u1EC7n M\u1ED9 \u0110\u1EE9c",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 534,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c Ph\u1ED5",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 535,
+    "nameQh": "Huy\u1EC7n Ba T\u01A1",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 536,
+    "nameQh": "Huy\u1EC7n L\u00FD S\u01A1n",
+    "idtp": 51,
+
+    "xa": []
+  },
+  {
+    "idqh": 540,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Qui Nh\u01A1n",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 542,
+    "nameQh": "Huy\u1EC7n An L\u00E3o",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 543,
+    "nameQh": "Huy\u1EC7n Ho\u00E0i Nh\u01A1n",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 544,
+    "nameQh": "Huy\u1EC7n Ho\u00E0i \u00C2n",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 545,
+    "nameQh": "Huy\u1EC7n Ph\u00F9 M\u1EF9",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 546,
+    "nameQh": "Huy\u1EC7n V\u0129nh Th\u1EA1nh",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 547,
+    "nameQh": "Huy\u1EC7n T\u00E2y S\u01A1n",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 548,
+    "nameQh": "Huy\u1EC7n Ph\u00F9 C\u00E1t",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 549,
+    "nameQh": "Th\u1ECB x\u00E3 An Nh\u01A1n",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 550,
+    "nameQh": "Huy\u1EC7n Tuy Ph\u01B0\u1EDBc",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 551,
+    "nameQh": "Huy\u1EC7n V\u00E2n Canh",
+    "idtp": 52,
+
+    "xa": []
+  },
+  {
+    "idqh": 555,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Tuy Ho\u00E0",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 557,
+    "nameQh": "Th\u1ECB x\u00E3 S\u00F4ng C\u1EA7u",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 558,
+    "nameQh": "Huy\u1EC7n \u0110\u1ED3ng Xu\u00E2n",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 559,
+    "nameQh": "Huy\u1EC7n Tuy An",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 560,
+    "nameQh": "Huy\u1EC7n S\u01A1n H\u00F2a",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 561,
+    "nameQh": "Huy\u1EC7n S\u00F4ng Hinh",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 562,
+    "nameQh": "Huy\u1EC7n T\u00E2y Ho\u00E0",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 563,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Ho\u00E0",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 564,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4ng H\u00F2a",
+    "idtp": 54,
+
+    "xa": []
+  },
+  {
+    "idqh": 568,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Nha Trang",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 569,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Cam Ranh",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 570,
+    "nameQh": "Huy\u1EC7n Cam L\u00E2m",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 571,
+    "nameQh": "Huy\u1EC7n V\u1EA1n Ninh",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 572,
+    "nameQh": "Th\u1ECB x\u00E3 Ninh H\u00F2a",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 573,
+    "nameQh": "Huy\u1EC7n Kh\u00E1nh V\u0129nh",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 574,
+    "nameQh": "Huy\u1EC7n Di\u00EAn Kh\u00E1nh",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 575,
+    "nameQh": "Huy\u1EC7n Kh\u00E1nh S\u01A1n",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 576,
+    "nameQh": "Huy\u1EC7n Tr\u01B0\u1EDDng Sa",
+    "idtp": 56,
+
+    "xa": []
+  },
+  {
+    "idqh": 582,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Phan Rang-Th\u00E1p Ch\u00E0m",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 584,
+    "nameQh": "Huy\u1EC7n B\u00E1c \u00C1i",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 585,
+    "nameQh": "Huy\u1EC7n Ninh S\u01A1n",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 586,
+    "nameQh": "Huy\u1EC7n Ninh H\u1EA3i",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 587,
+    "nameQh": "Huy\u1EC7n Ninh Ph\u01B0\u1EDBc",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 588,
+    "nameQh": "Huy\u1EC7n Thu\u1EADn B\u1EAFc",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 589,
+    "nameQh": "Huy\u1EC7n Thu\u1EADn Nam",
+    "idtp": 58,
+
+    "xa": []
+  },
+  {
+    "idqh": 593,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Phan Thi\u1EBFt",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 594,
+    "nameQh": "Th\u1ECB x\u00E3 La Gi",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 595,
+    "nameQh": "Huy\u1EC7n Tuy Phong",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 596,
+    "nameQh": "Huy\u1EC7n B\u1EAFc B\u00ECnh",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 597,
+    "nameQh": "Huy\u1EC7n H\u00E0m Thu\u1EADn B\u1EAFc",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 598,
+    "nameQh": "Huy\u1EC7n H\u00E0m Thu\u1EADn Nam",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 599,
+    "nameQh": "Huy\u1EC7n T\u00E1nh Linh",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 600,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c Linh",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 601,
+    "nameQh": "Huy\u1EC7n H\u00E0m T\u00E2n",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 602,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Qu\u00ED",
+    "idtp": 60,
+
+    "xa": []
+  },
+  {
+    "idqh": 608,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Kon Tum",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 610,
+    "nameQh": "Huy\u1EC7n \u0110\u1EAFk Glei",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 611,
+    "nameQh": "Huy\u1EC7n Ng\u1ECDc H\u1ED3i",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 612,
+    "nameQh": "Huy\u1EC7n \u0110\u1EAFk T\u00F4",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 613,
+    "nameQh": "Huy\u1EC7n Kon Pl\u00F4ng",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 614,
+    "nameQh": "Huy\u1EC7n Kon R\u1EABy",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 615,
+    "nameQh": "Huy\u1EC7n \u0110\u1EAFk H\u00E0",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 616,
+    "nameQh": "Huy\u1EC7n Sa Th\u1EA7y",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 617,
+    "nameQh": "Huy\u1EC7n Tu M\u01A1 R\u00F4ng",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 618,
+    "nameQh": "Huy\u1EC7n Ia H\u0027 Drai",
+    "idtp": 62,
+
+    "xa": []
+  },
+  {
+    "idqh": 622,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Pleiku",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 623,
+    "nameQh": "Th\u1ECB x\u00E3 An Kh\u00EA",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 624,
+    "nameQh": "Th\u1ECB x\u00E3 Ayun Pa",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 625,
+    "nameQh": "Huy\u1EC7n KBang",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 626,
+    "nameQh": "Huy\u1EC7n \u0110\u0103k \u0110oa",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 627,
+    "nameQh": "Huy\u1EC7n Ch\u01B0 P\u0103h",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 628,
+    "nameQh": "Huy\u1EC7n Ia Grai",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 629,
+    "nameQh": "Huy\u1EC7n Mang Yang",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 630,
+    "nameQh": "Huy\u1EC7n K\u00F4ng Chro",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 631,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c C\u01A1",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 632,
+    "nameQh": "Huy\u1EC7n Ch\u01B0 Pr\u00F4ng",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 633,
+    "nameQh": "Huy\u1EC7n Ch\u01B0 S\u00EA",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 634,
+    "nameQh": "Huy\u1EC7n \u0110\u0103k P\u01A1",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 635,
+    "nameQh": "Huy\u1EC7n Ia Pa",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 637,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng Pa",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 638,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Thi\u1EC7n",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 639,
+    "nameQh": "Huy\u1EC7n Ch\u01B0 P\u01B0h",
+    "idtp": 64,
+
+    "xa": []
+  },
+  {
+    "idqh": 643,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Bu\u00F4n Ma Thu\u1ED9t",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 644,
+    "nameQh": "Th\u1ECB X\u00E3 Bu\u00F4n H\u1ED3",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 645,
+    "nameQh": "Huy\u1EC7n Ea H\u0027leo",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 646,
+    "nameQh": "Huy\u1EC7n Ea S\u00FAp",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 647,
+    "nameQh": "Huy\u1EC7n Bu\u00F4n \u0110\u00F4n",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 648,
+    "nameQh": "Huy\u1EC7n C\u01B0 M\u0027gar",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 649,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng B\u00FAk",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 650,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng N\u0103ng",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 651,
+    "nameQh": "Huy\u1EC7n Ea Kar",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 652,
+    "nameQh": "Huy\u1EC7n M\u0027\u0110r\u1EAFk",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 653,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng B\u00F4ng",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 654,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng P\u1EAFc",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 655,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng A Na",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 656,
+    "nameQh": "Huy\u1EC7n L\u1EAFk",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 657,
+    "nameQh": "Huy\u1EC7n C\u01B0 Kuin",
+    "idtp": 66,
+
+    "xa": []
+  },
+  {
+    "idqh": 660,
+    "nameQh": "Th\u1ECB x\u00E3 Gia Ngh\u0129a",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 661,
+    "nameQh": "Huy\u1EC7n \u0110\u0103k Glong",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 662,
+    "nameQh": "Huy\u1EC7n C\u01B0 J\u00FAt",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 663,
+    "nameQh": "Huy\u1EC7n \u0110\u1EAFk Mil",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 664,
+    "nameQh": "Huy\u1EC7n Kr\u00F4ng N\u00F4",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 665,
+    "nameQh": "Huy\u1EC7n \u0110\u1EAFk Song",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 666,
+    "nameQh": "Huy\u1EC7n \u0110\u1EAFk R\u0027L\u1EA5p",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 667,
+    "nameQh": "Huy\u1EC7n Tuy \u0110\u1EE9c",
+    "idtp": 67,
+
+    "xa": []
+  },
+  {
+    "idqh": 672,
+    "nameQh": "Th\u00E0nh ph\u1ED1 \u0110\u00E0 L\u1EA1t",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 673,
+    "nameQh": "Th\u00E0nh ph\u1ED1 B\u1EA3o L\u1ED9c",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 674,
+    "nameQh": "Huy\u1EC7n \u0110am R\u00F4ng",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 675,
+    "nameQh": "Huy\u1EC7n L\u1EA1c D\u01B0\u01A1ng",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 676,
+    "nameQh": "Huy\u1EC7n L\u00E2m H\u00E0",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 677,
+    "nameQh": "Huy\u1EC7n \u0110\u01A1n D\u01B0\u01A1ng",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 678,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c Tr\u1ECDng",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 679,
+    "nameQh": "Huy\u1EC7n Di Linh",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 680,
+    "nameQh": "Huy\u1EC7n B\u1EA3o L\u00E2m",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 681,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA1 Huoai",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 682,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA1 T\u1EBBh",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 683,
+    "nameQh": "Huy\u1EC7n C\u00E1t Ti\u00EAn",
+    "idtp": 68,
+
+    "xa": []
+  },
+  {
+    "idqh": 688,
+    "nameQh": "Th\u1ECB x\u00E3 Ph\u01B0\u1EDBc Long",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 689,
+    "nameQh": "Th\u1ECB x\u00E3 \u0110\u1ED3ng Xo\u00E0i",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 690,
+    "nameQh": "Th\u1ECB x\u00E3 B\u00ECnh Long",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 691,
+    "nameQh": "Huy\u1EC7n B\u00F9 Gia M\u1EADp",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 692,
+    "nameQh": "Huy\u1EC7n L\u1ED9c Ninh",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 693,
+    "nameQh": "Huy\u1EC7n B\u00F9 \u0110\u1ED1p",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 694,
+    "nameQh": "Huy\u1EC7n H\u1EDBn Qu\u1EA3n",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 695,
+    "nameQh": "Huy\u1EC7n \u0110\u1ED3ng Ph\u00FA",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 696,
+    "nameQh": "Huy\u1EC7n B\u00F9 \u0110\u0103ng",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 697,
+    "nameQh": "Huy\u1EC7n Ch\u01A1n Th\u00E0nh",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 698,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Ri\u1EC1ng",
+    "idtp": 70,
+
+    "xa": []
+  },
+  {
+    "idqh": 703,
+    "nameQh": "Th\u00E0nh ph\u1ED1 T\u00E2y Ninh",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 705,
+    "nameQh": "Huy\u1EC7n T\u00E2n Bi\u00EAn",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 706,
+    "nameQh": "Huy\u1EC7n T\u00E2n Ch\u00E2u",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 707,
+    "nameQh": "Huy\u1EC7n D\u01B0\u01A1ng Minh Ch\u00E2u",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 708,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 709,
+    "nameQh": "Huy\u1EC7n H\u00F2a Th\u00E0nh",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 710,
+    "nameQh": "Huy\u1EC7n G\u00F2 D\u1EA7u",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 711,
+    "nameQh": "Huy\u1EC7n B\u1EBFn C\u1EA7u",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 712,
+    "nameQh": "Huy\u1EC7n Tr\u1EA3ng B\u00E0ng",
+    "idtp": 72,
+
+    "xa": []
+  },
+  {
+    "idqh": 718,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Th\u1EE7 D\u1EA7u M\u1ED9t",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 719,
+    "nameQh": "Huy\u1EC7n B\u00E0u B\u00E0ng",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 720,
+    "nameQh": "Huy\u1EC7n D\u1EA7u Ti\u1EBFng",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 721,
+    "nameQh": "Th\u1ECB x\u00E3 B\u1EBFn C\u00E1t",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 722,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Gi\u00E1o",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 723,
+    "nameQh": "Th\u1ECB x\u00E3 T\u00E2n Uy\u00EAn",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 724,
+    "nameQh": "Th\u1ECB x\u00E3 D\u0129 An",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 725,
+    "nameQh": "Th\u1ECB x\u00E3 Thu\u1EADn An",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 726,
+    "nameQh": "Huy\u1EC7n B\u1EAFc T\u00E2n Uy\u00EAn",
+    "idtp": 74,
+
+    "xa": []
+  },
+  {
+    "idqh": 731,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Bi\u00EAn H\u00F2a",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 732,
+    "nameQh": "Th\u1ECB x\u00E3 Long Kh\u00E1nh",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 734,
+    "nameQh": "Huy\u1EC7n T\u00E2n Ph\u00FA",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 735,
+    "nameQh": "Huy\u1EC7n V\u0129nh C\u1EEDu",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 736,
+    "nameQh": "Huy\u1EC7n \u0110\u1ECBnh Qu\u00E1n",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 737,
+    "nameQh": "Huy\u1EC7n Tr\u1EA3ng Bom",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 738,
+    "nameQh": "Huy\u1EC7n Th\u1ED1ng Nh\u1EA5t",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 739,
+    "nameQh": "Huy\u1EC7n C\u1EA9m M\u1EF9",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 740,
+    "nameQh": "Huy\u1EC7n Long Th\u00E0nh",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 741,
+    "nameQh": "Huy\u1EC7n Xu\u00E2n L\u1ED9c",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 742,
+    "nameQh": "Huy\u1EC7n Nh\u01A1n Tr\u1EA1ch",
+    "idtp": 75,
+
+    "xa": []
+  },
+  {
+    "idqh": 747,
+    "nameQh": "Th\u00E0nh ph\u1ED1 V\u0169ng T\u00E0u",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 748,
+    "nameQh": "Th\u00E0nh ph\u1ED1 B\u00E0 R\u1ECBa",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 750,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u \u0110\u1EE9c",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 751,
+    "nameQh": "Huy\u1EC7n Xuy\u00EAn M\u1ED9c",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 752,
+    "nameQh": "Huy\u1EC7n Long \u0110i\u1EC1n",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 753,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA5t \u0110\u1ECF",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 754,
+    "nameQh": "Huy\u1EC7n T\u00E2n Th\u00E0nh",
+    "idtp": 77,
+
+    "xa": []
+  },
+  {
+    "idqh": 760,
+    "nameQh": "Qu\u1EADn 1",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 761,
+    "nameQh": "Qu\u1EADn 12",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 762,
+    "nameQh": "Qu\u1EADn Th\u1EE7 \u0110\u1EE9c",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 763,
+    "nameQh": "Qu\u1EADn 9",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 764,
+    "nameQh": "Qu\u1EADn G\u00F2 V\u1EA5p",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 765,
+    "nameQh": "Qu\u1EADn B\u00ECnh Th\u1EA1nh",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 766,
+    "nameQh": "Qu\u1EADn T\u00E2n B\u00ECnh",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 767,
+    "nameQh": "Qu\u1EADn T\u00E2n Ph\u00FA",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 768,
+    "nameQh": "Qu\u1EADn Ph\u00FA Nhu\u1EADn",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 769,
+    "nameQh": "Qu\u1EADn 2",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 770,
+    "nameQh": "Qu\u1EADn 3",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 771,
+    "nameQh": "Qu\u1EADn 10",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 772,
+    "nameQh": "Qu\u1EADn 11",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 773,
+    "nameQh": "Qu\u1EADn 4",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 774,
+    "nameQh": "Qu\u1EADn 5",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 775,
+    "nameQh": "Qu\u1EADn 6",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 776,
+    "nameQh": "Qu\u1EADn 8",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 777,
+    "nameQh": "Qu\u1EADn B\u00ECnh T\u00E2n",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 778,
+    "nameQh": "Qu\u1EADn 7",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 783,
+    "nameQh": "Huy\u1EC7n C\u1EE7 Chi",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 784,
+    "nameQh": "Huy\u1EC7n H\u00F3c M\u00F4n",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 785,
+    "nameQh": "Huy\u1EC7n B\u00ECnh Ch\u00E1nh",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 786,
+    "nameQh": "Huy\u1EC7n Nh\u00E0 B\u00E8",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 787,
+    "nameQh": "Huy\u1EC7n C\u1EA7n Gi\u1EDD",
+    "idtp": 79,
+
+    "xa": []
+  },
+  {
+    "idqh": 794,
+    "nameQh": "Th\u00E0nh ph\u1ED1 T\u00E2n An",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 795,
+    "nameQh": "Th\u1ECB x\u00E3 Ki\u1EBFn T\u01B0\u1EDDng",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 796,
+    "nameQh": "Huy\u1EC7n T\u00E2n H\u01B0ng",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 797,
+    "nameQh": "Huy\u1EC7n V\u0129nh H\u01B0ng",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 798,
+    "nameQh": "Huy\u1EC7n M\u1ED9c H\u00F3a",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 799,
+    "nameQh": "Huy\u1EC7n T\u00E2n Th\u1EA1nh",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 800,
+    "nameQh": "Huy\u1EC7n Th\u1EA1nh H\u00F3a",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 801,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c Hu\u1EC7",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 802,
+    "nameQh": "Huy\u1EC7n \u0110\u1EE9c H\u00F2a",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 803,
+    "nameQh": "Huy\u1EC7n B\u1EBFn L\u1EE9c",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 804,
+    "nameQh": "Huy\u1EC7n Th\u1EE7 Th\u1EEBa",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 805,
+    "nameQh": "Huy\u1EC7n T\u00E2n Tr\u1EE5",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 806,
+    "nameQh": "Huy\u1EC7n C\u1EA7n \u0110\u01B0\u1EDBc",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 807,
+    "nameQh": "Huy\u1EC7n C\u1EA7n Giu\u1ED9c",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 808,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 80,
+
+    "xa": []
+  },
+  {
+    "idqh": 815,
+    "nameQh": "Th\u00E0nh ph\u1ED1 M\u1EF9 Tho",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 816,
+    "nameQh": "Th\u1ECB x\u00E3 G\u00F2 C\u00F4ng",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 817,
+    "nameQh": "Th\u1ECB x\u00E3 Cai L\u1EADy",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 818,
+    "nameQh": "Huy\u1EC7n T\u00E2n Ph\u01B0\u1EDBc",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 819,
+    "nameQh": "Huy\u1EC7n C\u00E1i B\u00E8",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 820,
+    "nameQh": "Huy\u1EC7n Cai L\u1EADy",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 821,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 822,
+    "nameQh": "Huy\u1EC7n Ch\u1EE3 G\u1EA1o",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 823,
+    "nameQh": "Huy\u1EC7n G\u00F2 C\u00F4ng T\u00E2y",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 824,
+    "nameQh": "Huy\u1EC7n G\u00F2 C\u00F4ng \u0110\u00F4ng",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 825,
+    "nameQh": "Huy\u1EC7n T\u00E2n Ph\u00FA \u0110\u00F4ng",
+    "idtp": 82,
+
+    "xa": []
+  },
+  {
+    "idqh": 829,
+    "nameQh": "Th\u00E0nh ph\u1ED1 B\u1EBFn Tre",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 831,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 832,
+    "nameQh": "Huy\u1EC7n Ch\u1EE3 L\u00E1ch",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 833,
+    "nameQh": "Huy\u1EC7n M\u1ECF C\u00E0y Nam",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 834,
+    "nameQh": "Huy\u1EC7n Gi\u1ED3ng Tr\u00F4m",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 835,
+    "nameQh": "Huy\u1EC7n B\u00ECnh \u0110\u1EA1i",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 836,
+    "nameQh": "Huy\u1EC7n Ba Tri",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 837,
+    "nameQh": "Huy\u1EC7n Th\u1EA1nh Ph\u00FA",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 838,
+    "nameQh": "Huy\u1EC7n M\u1ECF C\u00E0y B\u1EAFc",
+    "idtp": 83,
+
+    "xa": []
+  },
+  {
+    "idqh": 842,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Tr\u00E0 Vinh",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 844,
+    "nameQh": "Huy\u1EC7n C\u00E0ng Long",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 845,
+    "nameQh": "Huy\u1EC7n C\u1EA7u K\u00E8",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 846,
+    "nameQh": "Huy\u1EC7n Ti\u1EC3u C\u1EA7n",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 847,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 848,
+    "nameQh": "Huy\u1EC7n C\u1EA7u Ngang",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 849,
+    "nameQh": "Huy\u1EC7n Tr\u00E0 C\u00FA",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 850,
+    "nameQh": "Huy\u1EC7n Duy\u00EAn H\u1EA3i",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 851,
+    "nameQh": "Th\u1ECB x\u00E3 Duy\u00EAn H\u1EA3i",
+    "idtp": 84,
+
+    "xa": []
+  },
+  {
+    "idqh": 855,
+    "nameQh": "Th\u00E0nh ph\u1ED1 V\u0129nh Long",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 857,
+    "nameQh": "Huy\u1EC7n Long H\u1ED3",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 858,
+    "nameQh": "Huy\u1EC7n Mang Th\u00EDt",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 859,
+    "nameQh": "Huy\u1EC7n  V\u0169ng Li\u00EAm",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 860,
+    "nameQh": "Huy\u1EC7n Tam B\u00ECnh",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 861,
+    "nameQh": "Th\u1ECB x\u00E3 B\u00ECnh Minh",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 862,
+    "nameQh": "Huy\u1EC7n Tr\u00E0 \u00D4n",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 863,
+    "nameQh": "Huy\u1EC7n B\u00ECnh T\u00E2n",
+    "idtp": 86,
+
+    "xa": []
+  },
+  {
+    "idqh": 866,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Cao L\u00E3nh",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 867,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Sa \u0110\u00E9c",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 868,
+    "nameQh": "Th\u1ECB x\u00E3 H\u1ED3ng Ng\u1EF1",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 869,
+    "nameQh": "Huy\u1EC7n T\u00E2n H\u1ED3ng",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 870,
+    "nameQh": "Huy\u1EC7n H\u1ED3ng Ng\u1EF1",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 871,
+    "nameQh": "Huy\u1EC7n Tam N\u00F4ng",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 872,
+    "nameQh": "Huy\u1EC7n Th\u00E1p M\u01B0\u1EDDi",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 873,
+    "nameQh": "Huy\u1EC7n Cao L\u00E3nh",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 874,
+    "nameQh": "Huy\u1EC7n Thanh B\u00ECnh",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 875,
+    "nameQh": "Huy\u1EC7n L\u1EA5p V\u00F2",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 876,
+    "nameQh": "Huy\u1EC7n Lai Vung",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 877,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 87,
+
+    "xa": []
+  },
+  {
+    "idqh": 883,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Long Xuy\u00EAn",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 884,
+    "nameQh": "Th\u00E0nh ph\u1ED1 Ch\u00E2u \u0110\u1ED1c",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 886,
+    "nameQh": "Huy\u1EC7n An Ph\u00FA",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 887,
+    "nameQh": "Th\u1ECB x\u00E3 T\u00E2n Ch\u00E2u",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 888,
+    "nameQh": "Huy\u1EC7n Ph\u00FA T\u00E2n",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 889,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Ph\u00FA",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 890,
+    "nameQh": "Huy\u1EC7n T\u1ECBnh Bi\u00EAn",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 891,
+    "nameQh": "Huy\u1EC7n Tri T\u00F4n",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 892,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 893,
+    "nameQh": "Huy\u1EC7n Ch\u1EE3 M\u1EDBi",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 894,
+    "nameQh": "Huy\u1EC7n Tho\u1EA1i S\u01A1n",
+    "idtp": 89,
+
+    "xa": []
+  },
+  {
+    "idqh": 899,
+    "nameQh": "Th\u00E0nh ph\u1ED1 R\u1EA1ch Gi\u00E1",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 900,
+    "nameQh": "Th\u1ECB x\u00E3 H\u00E0 Ti\u00EAn",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 902,
+    "nameQh": "Huy\u1EC7n Ki\u00EAn L\u01B0\u01A1ng",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 903,
+    "nameQh": "Huy\u1EC7n H\u00F2n \u0110\u1EA5t",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 904,
+    "nameQh": "Huy\u1EC7n T\u00E2n Hi\u1EC7p",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 905,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 906,
+    "nameQh": "Huy\u1EC7n Gi\u1ED3ng Ri\u1EC1ng",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 907,
+    "nameQh": "Huy\u1EC7n G\u00F2 Quao",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 908,
+    "nameQh": "Huy\u1EC7n An Bi\u00EAn",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 909,
+    "nameQh": "Huy\u1EC7n An Minh",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 910,
+    "nameQh": "Huy\u1EC7n V\u0129nh Thu\u1EADn",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 911,
+    "nameQh": "Huy\u1EC7n Ph\u00FA Qu\u1ED1c",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 912,
+    "nameQh": "Huy\u1EC7n Ki\u00EAn H\u1EA3i",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 913,
+    "nameQh": "Huy\u1EC7n U Minh Th\u01B0\u1EE3ng",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 914,
+    "nameQh": "Huy\u1EC7n Giang Th\u00E0nh",
+    "idtp": 91,
+
+    "xa": []
+  },
+  {
+    "idqh": 916,
+    "nameQh": "Qu\u1EADn Ninh Ki\u1EC1u",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 917,
+    "nameQh": "Qu\u1EADn \u00D4 M\u00F4n",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 918,
+    "nameQh": "Qu\u1EADn B\u00ECnh Thu\u1EF7",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 919,
+    "nameQh": "Qu\u1EADn C\u00E1i R\u0103ng",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 923,
+    "nameQh": "Qu\u1EADn Th\u1ED1t N\u1ED1t",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 924,
+    "nameQh": "Huy\u1EC7n V\u0129nh Th\u1EA1nh",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 925,
+    "nameQh": "Huy\u1EC7n C\u1EDD \u0110\u1ECF",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 926,
+    "nameQh": "Huy\u1EC7n Phong \u0110i\u1EC1n",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 927,
+    "nameQh": "Huy\u1EC7n Th\u1EDBi Lai",
+    "idtp": 92,
+
+    "xa": []
+  },
+  {
+    "idqh": 930,
+    "nameQh": "Th\u00E0nh ph\u1ED1 V\u1ECB Thanh",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 931,
+    "nameQh": "Th\u1ECB x\u00E3 Ng\u00E3 B\u1EA3y",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 932,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh A",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 933,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 934,
+    "nameQh": "Huy\u1EC7n Ph\u1EE5ng Hi\u1EC7p",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 935,
+    "nameQh": "Huy\u1EC7n V\u1ECB Thu\u1EF7",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 936,
+    "nameQh": "Huy\u1EC7n Long M\u1EF9",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 937,
+    "nameQh": "Th\u1ECB x\u00E3 Long M\u1EF9",
+    "idtp": 93,
+
+    "xa": []
+  },
+  {
+    "idqh": 941,
+    "nameQh": "Th\u00E0nh ph\u1ED1 S\u00F3c Tr\u0103ng",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 942,
+    "nameQh": "Huy\u1EC7n Ch\u00E2u Th\u00E0nh",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 943,
+    "nameQh": "Huy\u1EC7n K\u1EBF S\u00E1ch",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 944,
+    "nameQh": "Huy\u1EC7n M\u1EF9 T\u00FA",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 945,
+    "nameQh": "Huy\u1EC7n C\u00F9 Lao Dung",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 946,
+    "nameQh": "Huy\u1EC7n Long Ph\u00FA",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 947,
+    "nameQh": "Huy\u1EC7n M\u1EF9 Xuy\u00EAn",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 948,
+    "nameQh": "Th\u1ECB x\u00E3 Ng\u00E3 N\u0103m",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 949,
+    "nameQh": "Huy\u1EC7n Th\u1EA1nh Tr\u1ECB",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 950,
+    "nameQh": "Th\u1ECB x\u00E3 V\u0129nh Ch\u00E2u",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 951,
+    "nameQh": "Huy\u1EC7n Tr\u1EA7n \u0110\u1EC1",
+    "idtp": 94,
+
+    "xa": []
+  },
+  {
+    "idqh": 954,
+    "nameQh": "Th\u00E0nh ph\u1ED1 B\u1EA1c Li\u00EAu",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 956,
+    "nameQh": "Huy\u1EC7n H\u1ED3ng D\u00E2n",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 957,
+    "nameQh": "Huy\u1EC7n Ph\u01B0\u1EDBc Long",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 958,
+    "nameQh": "Huy\u1EC7n V\u0129nh L\u1EE3i",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 959,
+    "nameQh": "Th\u1ECB x\u00E3 Gi\u00E1 Rai",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 960,
+    "nameQh": "Huy\u1EC7n \u0110\u00F4ng H\u1EA3i",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 961,
+    "nameQh": "Huy\u1EC7n Ho\u00E0 B\u00ECnh",
+    "idtp": 95,
+
+    "xa": []
+  },
+  {
+    "idqh": 964,
+    "nameQh": "Th\u00E0nh ph\u1ED1 C\u00E0 Mau",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 966,
+    "nameQh": "Huy\u1EC7n U Minh",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 967,
+    "nameQh": "Huy\u1EC7n Th\u1EDBi B\u00ECnh",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 968,
+    "nameQh": "Huy\u1EC7n Tr\u1EA7n V\u0103n Th\u1EDDi",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 969,
+    "nameQh": "Huy\u1EC7n C\u00E1i N\u01B0\u1EDBc",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 970,
+    "nameQh": "Huy\u1EC7n \u0110\u1EA7m D\u01A1i",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 971,
+    "nameQh": "Huy\u1EC7n N\u0103m C\u0103n",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 972,
+    "nameQh": "Huy\u1EC7n Ph\u00FA T\u00E2n",
+    "idtp": 96,
+
+    "xa": []
+  },
+  {
+    "idqh": 973,
+    "nameQh": "Huy\u1EC7n Ng\u1ECDc Hi\u1EC3n",
+    "idtp": 96,
+
+    "xa": []
+  }
+]
