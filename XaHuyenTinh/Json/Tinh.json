@@ -1,317 +1,254 @@
 ﻿[
   {
     "idtp": 1,
-    "nameTp": "Th\u00E0nh ph\u1ED1 H\u00E0 N\u1ED9i",
-    "huyen": []
+    "nameTp": "Th\u00E0nh ph\u1ED1 H\u00E0 N\u1ED9i"
   },
   {
     "idtp": 2,
-    "nameTp": "T\u1EC9nh H\u00E0 Giang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh H\u00E0 Giang"
   },
   {
     "idtp": 4,
-    "nameTp": "T\u1EC9nh Cao B\u1EB1ng",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Cao B\u1EB1ng"
   },
   {
     "idtp": 6,
-    "nameTp": "T\u1EC9nh B\u1EAFc K\u1EA1n",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u1EAFc K\u1EA1n"
   },
   {
     "idtp": 8,
-    "nameTp": "T\u1EC9nh Tuy\u00EAn Quang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Tuy\u00EAn Quang"
   },
   {
     "idtp": 10,
-    "nameTp": "T\u1EC9nh L\u00E0o Cai",
-    "huyen": []
+    "nameTp": "T\u1EC9nh L\u00E0o Cai"
   },
   {
     "idtp": 11,
-    "nameTp": "T\u1EC9nh \u0110i\u1EC7n Bi\u00EAn",
-    "huyen": []
+    "nameTp": "T\u1EC9nh \u0110i\u1EC7n Bi\u00EAn"
   },
   {
     "idtp": 12,
-    "nameTp": "T\u1EC9nh Lai Ch\u00E2u",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Lai Ch\u00E2u"
   },
   {
     "idtp": 14,
-    "nameTp": "T\u1EC9nh S\u01A1n La",
-    "huyen": []
+    "nameTp": "T\u1EC9nh S\u01A1n La"
   },
   {
     "idtp": 15,
-    "nameTp": "T\u1EC9nh Y\u00EAn B\u00E1i",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Y\u00EAn B\u00E1i"
   },
   {
     "idtp": 17,
-    "nameTp": "T\u1EC9nh Ho\u00E0 B\u00ECnh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ho\u00E0 B\u00ECnh"
   },
   {
     "idtp": 19,
-    "nameTp": "T\u1EC9nh Th\u00E1i Nguy\u00EAn",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Th\u00E1i Nguy\u00EAn"
   },
   {
     "idtp": 20,
-    "nameTp": "T\u1EC9nh L\u1EA1ng S\u01A1n",
-    "huyen": []
+    "nameTp": "T\u1EC9nh L\u1EA1ng S\u01A1n"
   },
   {
     "idtp": 22,
-    "nameTp": "T\u1EC9nh Qu\u1EA3ng Ninh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Qu\u1EA3ng Ninh"
   },
   {
     "idtp": 24,
-    "nameTp": "T\u1EC9nh B\u1EAFc Giang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u1EAFc Giang"
   },
   {
     "idtp": 25,
-    "nameTp": "T\u1EC9nh Ph\u00FA Th\u1ECD",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ph\u00FA Th\u1ECD"
   },
   {
     "idtp": 26,
-    "nameTp": "T\u1EC9nh V\u0129nh Ph\u00FAc",
-    "huyen": []
+    "nameTp": "T\u1EC9nh V\u0129nh Ph\u00FAc"
   },
   {
     "idtp": 27,
-    "nameTp": "T\u1EC9nh B\u1EAFc Ninh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u1EAFc Ninh"
   },
   {
     "idtp": 30,
-    "nameTp": "T\u1EC9nh H\u1EA3i D\u01B0\u01A1ng",
-    "huyen": []
+    "nameTp": "T\u1EC9nh H\u1EA3i D\u01B0\u01A1ng"
   },
   {
     "idtp": 31,
-    "nameTp": "Th\u00E0nh ph\u1ED1 H\u1EA3i Ph\u00F2ng",
-    "huyen": []
+    "nameTp": "Th\u00E0nh ph\u1ED1 H\u1EA3i Ph\u00F2ng"
   },
   {
     "idtp": 33,
-    "nameTp": "T\u1EC9nh H\u01B0ng Y\u00EAn",
-    "huyen": []
+    "nameTp": "T\u1EC9nh H\u01B0ng Y\u00EAn"
   },
   {
     "idtp": 34,
-    "nameTp": "T\u1EC9nh Th\u00E1i B\u00ECnh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Th\u00E1i B\u00ECnh"
   },
   {
     "idtp": 35,
-    "nameTp": "T\u1EC9nh H\u00E0 Nam",
-    "huyen": []
+    "nameTp": "T\u1EC9nh H\u00E0 Nam"
   },
   {
     "idtp": 36,
-    "nameTp": "T\u1EC9nh Nam \u0110\u1ECBnh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Nam \u0110\u1ECBnh"
   },
   {
     "idtp": 37,
-    "nameTp": "T\u1EC9nh Ninh B\u00ECnh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ninh B\u00ECnh"
   },
   {
     "idtp": 38,
-    "nameTp": "T\u1EC9nh Thanh H\u00F3a",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Thanh H\u00F3a"
   },
   {
     "idtp": 40,
-    "nameTp": "T\u1EC9nh Ngh\u1EC7 An",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ngh\u1EC7 An"
   },
   {
     "idtp": 42,
-    "nameTp": "T\u1EC9nh H\u00E0 T\u0129nh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh H\u00E0 T\u0129nh"
   },
   {
     "idtp": 44,
-    "nameTp": "T\u1EC9nh Qu\u1EA3ng B\u00ECnh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Qu\u1EA3ng B\u00ECnh"
   },
   {
     "idtp": 45,
-    "nameTp": "T\u1EC9nh Qu\u1EA3ng Tr\u1ECB",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Qu\u1EA3ng Tr\u1ECB"
   },
   {
     "idtp": 46,
-    "nameTp": "T\u1EC9nh Th\u1EEBa Thi\u00EAn Hu\u1EBF",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Th\u1EEBa Thi\u00EAn Hu\u1EBF"
   },
   {
     "idtp": 48,
-    "nameTp": "Th\u00E0nh ph\u1ED1 \u0110\u00E0 N\u1EB5ng",
-    "huyen": []
+    "nameTp": "Th\u00E0nh ph\u1ED1 \u0110\u00E0 N\u1EB5ng"
   },
   {
     "idtp": 49,
-    "nameTp": "T\u1EC9nh Qu\u1EA3ng Nam",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Qu\u1EA3ng Nam"
   },
   {
     "idtp": 51,
-    "nameTp": "T\u1EC9nh Qu\u1EA3ng Ng\u00E3i",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Qu\u1EA3ng Ng\u00E3i"
   },
   {
     "idtp": 52,
-    "nameTp": "T\u1EC9nh B\u00ECnh \u0110\u1ECBnh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u00ECnh \u0110\u1ECBnh"
   },
   {
     "idtp": 54,
-    "nameTp": "T\u1EC9nh Ph\u00FA Y\u00EAn",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ph\u00FA Y\u00EAn"
   },
   {
     "idtp": 56,
-    "nameTp": "T\u1EC9nh Kh\u00E1nh H\u00F2a",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Kh\u00E1nh H\u00F2a"
   },
   {
     "idtp": 58,
-    "nameTp": "T\u1EC9nh Ninh Thu\u1EADn",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ninh Thu\u1EADn"
   },
   {
     "idtp": 60,
-    "nameTp": "T\u1EC9nh B\u00ECnh Thu\u1EADn",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u00ECnh Thu\u1EADn"
   },
   {
     "idtp": 62,
-    "nameTp": "T\u1EC9nh Kon Tum",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Kon Tum"
   },
   {
     "idtp": 64,
-    "nameTp": "T\u1EC9nh Gia Lai",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Gia Lai"
   },
   {
     "idtp": 66,
-    "nameTp": "T\u1EC9nh \u0110\u1EAFk L\u1EAFk",
-    "huyen": []
+    "nameTp": "T\u1EC9nh \u0110\u1EAFk L\u1EAFk"
   },
   {
     "idtp": 67,
-    "nameTp": "T\u1EC9nh \u0110\u1EAFk N\u00F4ng",
-    "huyen": []
+    "nameTp": "T\u1EC9nh \u0110\u1EAFk N\u00F4ng"
   },
   {
     "idtp": 68,
-    "nameTp": "T\u1EC9nh L\u00E2m \u0110\u1ED3ng",
-    "huyen": []
+    "nameTp": "T\u1EC9nh L\u00E2m \u0110\u1ED3ng"
   },
   {
     "idtp": 70,
-    "nameTp": "T\u1EC9nh B\u00ECnh Ph\u01B0\u1EDBc",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u00ECnh Ph\u01B0\u1EDBc"
   },
   {
     "idtp": 72,
-    "nameTp": "T\u1EC9nh T\u00E2y Ninh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh T\u00E2y Ninh"
   },
   {
     "idtp": 74,
-    "nameTp": "T\u1EC9nh B\u00ECnh D\u01B0\u01A1ng",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u00ECnh D\u01B0\u01A1ng"
   },
   {
     "idtp": 75,
-    "nameTp": "T\u1EC9nh \u0110\u1ED3ng Nai",
-    "huyen": []
+    "nameTp": "T\u1EC9nh \u0110\u1ED3ng Nai"
   },
   {
     "idtp": 77,
-    "nameTp": "T\u1EC9nh B\u00E0 R\u1ECBa - V\u0169ng T\u00E0u",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u00E0 R\u1ECBa - V\u0169ng T\u00E0u"
   },
   {
     "idtp": 79,
-    "nameTp": "Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh",
-    "huyen": []
+    "nameTp": "Th\u00E0nh ph\u1ED1 H\u1ED3 Ch\u00ED Minh"
   },
   {
     "idtp": 80,
-    "nameTp": "T\u1EC9nh Long An",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Long An"
   },
   {
     "idtp": 82,
-    "nameTp": "T\u1EC9nh Ti\u1EC1n Giang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ti\u1EC1n Giang"
   },
   {
     "idtp": 83,
-    "nameTp": "T\u1EC9nh B\u1EBFn Tre",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u1EBFn Tre"
   },
   {
     "idtp": 84,
-    "nameTp": "T\u1EC9nh Tr\u00E0 Vinh",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Tr\u00E0 Vinh"
   },
   {
     "idtp": 86,
-    "nameTp": "T\u1EC9nh V\u0129nh Long",
-    "huyen": []
+    "nameTp": "T\u1EC9nh V\u0129nh Long"
   },
   {
     "idtp": 87,
-    "nameTp": "T\u1EC9nh \u0110\u1ED3ng Th\u00E1p",
-    "huyen": []
+    "nameTp": "T\u1EC9nh \u0110\u1ED3ng Th\u00E1p"
   },
   {
     "idtp": 89,
-    "nameTp": "T\u1EC9nh An Giang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh An Giang"
   },
   {
     "idtp": 91,
-    "nameTp": "T\u1EC9nh Ki\u00EAn Giang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh Ki\u00EAn Giang"
   },
   {
     "idtp": 92,
-    "nameTp": "Th\u00E0nh ph\u1ED1 C\u1EA7n Th\u01A1",
-    "huyen": []
+    "nameTp": "Th\u00E0nh ph\u1ED1 C\u1EA7n Th\u01A1"
   },
   {
     "idtp": 93,
-    "nameTp": "T\u1EC9nh H\u1EADu Giang",
-    "huyen": []
+    "nameTp": "T\u1EC9nh H\u1EADu Giang"
   },
   {
     "idtp": 94,
-    "nameTp": "T\u1EC9nh S\u00F3c Tr\u0103ng",
-    "huyen": []
+    "nameTp": "T\u1EC9nh S\u00F3c Tr\u0103ng"
   },
   {
     "idtp": 95,
-    "nameTp": "T\u1EC9nh B\u1EA1c Li\u00EAu",
-    "huyen": []
+    "nameTp": "T\u1EC9nh B\u1EA1c Li\u00EAu"
   },
   {
     "idtp": 96,
-    "nameTp": "T\u1EC9nh C\u00E0 Mau",
-    "huyen": []
+    "nameTp": "T\u1EC9nh C\u00E0 Mau"
   }
 ]

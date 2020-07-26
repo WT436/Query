@@ -545,6 +545,7 @@ CREATE TABLE Cart(
 --=========>Trường Dữ Liệu<===========--
 	Id int IdENTITY(1,1) NOT NULL primary key,
 	SoLuong int NOT NULL CHECK  ((soLuong>(0))),
+	DateCreate date default getdate(),
 	Isdelete bit NOT NULL DEFAULT (0),
 --=========>Connect Table<===========--
     promotion int NULL FOREIGN KEY(promotion) REFERENCES promotion (Id),
@@ -662,11 +663,12 @@ CREATE TABLE IsContract(
 	Purchase int NULL FOREIGN KEY(Purchase) REFERENCES Purchase (Id),
 )
 GO
-/******    Chuẩn bị sản phẩm    *****/
-CREATE TABLE PrepareProduct(
+/******   Sản phẩm Thất Bại   *****/
+CREATE TABLE FailureProduct(
 --=========>Trường Dữ Liệu<===========--
 	Id int IdENTITY(1,1) NOT NULL primary key,
-	NgayGiao date NOT NULL DEFAULT (getdate()),
+	DateCreate date NOT NULL DEFAULT (getdate()),
+	LyDo nvarchar(300) ,
 	Isdelete bit NOT NULL DEFAULT (0),
 --=========>Connect Table<===========--
 	Seo int FOREIGN KEY REFERENCES Seo (Id),
@@ -683,7 +685,7 @@ CREATE TABLE SuccessProduct(
 	NgayGiao date NOT NULL DEFAULT (getdate()),
 	Isdelete bit NOT NULL DEFAULT (0),
 --=========>Connect Table<===========--
-	PrepareProduct int NULL FOREIGN KEY(PrepareProduct) REFERENCES PrepareProduct (Id),
+	FailureProduct int NULL FOREIGN KEY(FailureProduct) REFERENCES FailureProduct (Id),
 	Seo int FOREIGN KEY REFERENCES Seo (Id),
 	Purchase int NULL FOREIGN KEY(Purchase) REFERENCES Purchase (Id),
 	IsContract int NULL FOREIGN KEY(IsContract) REFERENCES IsContract (Id),
@@ -699,17 +701,6 @@ CREATE TABLE Guarantee(
 	Isdelete bit NOT NULL DEFAULT (0),
 --=========>Connect Table<===========--
 	Purchase int NULL FOREIGN KEY(Purchase) REFERENCES Purchase (Id),
-	NameUser varchar(50) NULL FOREIGN KEY(NameUser) REFERENCES LoginAccount (NameUser),
-	Seo int FOREIGN KEY REFERENCES Seo (Id),
-)
-GO
-/******    Trả lại sản phẩm   ****/
-CREATE TABLE ReturnTheProduct(
---=========>Trường Dữ Liệu<===========--
-	Id int IdENTITY(1,1) NOT NULL primary key,
-	LyDo nvarchar(300) NULL,
---=========>Connect Table<===========--
-	Product int NULL FOREIGN KEY(Product) REFERENCES Product (Id),
 	NameUser varchar(50) NULL FOREIGN KEY(NameUser) REFERENCES LoginAccount (NameUser),
 	Seo int FOREIGN KEY REFERENCES Seo (Id),
 )
@@ -817,6 +808,7 @@ CREATE TABLE HistoryOfReceivingCoins(
 	NameUser varchar(50) NULL FOREIGN KEY(NameUser) REFERENCES LoginAccount (NameUser),
 )
 GO
+/*****************************************************************************************************************/
 /******    lý do lưu trữ    ****/
 CREATE TABLE reasonRepository(
 --=========>Trường Dữ Liệu<===========--
@@ -998,33 +990,6 @@ CREATE TABLE ErrorOperation(
 	DateCreate date NOT NULL DEFAULT (getdate()),
 	Isdelete bit NOT NULL DEFAULT (0),
 --=========>Connect Table<===========--
-)
-GO
-/******    Tinh  v  *****/
-CREATE TABLE Tinh(
---=========>Trường Dữ Liệu<===========--
-	IdTP int NOT NULL primary key,
-	NameTP nvarchar(300) NULL,
---=========>Connect Table<===========--
-)
-GO
-/******    Huyen v  *****/
-CREATE TABLE Huyen(
---=========>Trường Dữ Liệu<===========--
-	IdQH int NOT NULL primary key,
-	NameQH nvarchar(300) NULL,
---=========>Connect Table<===========--
-	IdTP int NULL FOREIGN KEY(IdTP) REFERENCES Tinh (IdTP),
-)
-GO
-/******    Xa v  ***/
-CREATE TABLE Xa(
---=========>Trường Dữ Liệu<===========--
-	IdPX int NOT NULL primary key,
-	NameXa nvarchar(300) NULL,
-	Cap nvarchar(30) NULL,
---=========>Connect Table<===========--
-	IdQH int NULL FOREIGN KEY(IdQH) REFERENCES Huyen (IdQH),
 )
 GO
 /******   Kho Tính năng  v *****/

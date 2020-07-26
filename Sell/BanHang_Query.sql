@@ -1,5 +1,5 @@
 go--***********************************************************************************************************************************
-alter function  DiscountHome() 
+create function  DiscountHome() 
 returns @bang table(id int ,
 			  ten nvarchar(100),
 			  gia int ,
