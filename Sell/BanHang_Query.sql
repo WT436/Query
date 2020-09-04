@@ -1,3 +1,4 @@
+use Sell
 go--***********************************************************************************************************************************
 create function  DiscountHome() 
 returns @bang table(id int ,
@@ -94,3 +95,8 @@ insert into @bang select Product.id,ThemeProduct.id as theme, categoryProduct.id
 	where Product.Isdelete=0  and Product.ten like '%'+@idtheme+'%'
 return 
 end
+go--***********************************************************************************************************
+create function F_GetAllEvaluate()
+returns @bang table(
+
+)
